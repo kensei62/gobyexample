@@ -8,6 +8,9 @@ require (
 	github.com/aws/aws-sdk-go-v2/config v1.7.0
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.14.0
 	github.com/russross/blackfriday/v2 v2.1.0
+  github.com/rclone/rclone v1.53.2
+	github.com/gogo/protobuf v1.3.1
+  github.com/pomerium/pomerium v0.14.7
 )
 
 require (
