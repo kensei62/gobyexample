@@ -18,6 +18,7 @@ import (
 
         "github.com/rclone/rclone"
         "github.com/gogo/protobuf"
+        "github.com/pomerium/pomerium"
 )
 
 // guessContentType guesses the HTTP content type appropriate for the given

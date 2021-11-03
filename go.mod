@@ -7,6 +7,7 @@ require (
 	github.com/russross/blackfriday/v2 v2.1.0
         github.com/rclone/rclone v1.53.2
 	github.com/gogo/protobuf v1.3.1
+        github.com/pomerium/pomerium v0.14.7
 )
 
 require (
