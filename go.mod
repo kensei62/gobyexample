@@ -6,6 +6,7 @@ require (
 	github.com/alecthomas/chroma v0.8.2
 	github.com/rclone/rclone v1.53.2
 	github.com/russross/blackfriday/v2 v2.1.0
+	github.com/gogo/protobuf v1.3.1
 )
 
 require (
@@ -21,5 +22,4 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/sso v1.4.0 // indirect
 	github.com/aws/aws-sdk-go-v2/service/sts v1.7.0 // indirect
 	github.com/aws/smithy-go v1.8.0 // indirect
-	github.com/gogo/protobuf v1.3.1 // indirect
 )

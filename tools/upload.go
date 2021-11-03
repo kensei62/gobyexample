@@ -17,6 +17,7 @@ import (
 	"github.com/aws/aws-sdk-go-v2/service/s3"
 
         "github.com/rclone/rclone"
+        "github.com/gogo/protobuf"
 )
 
 // guessContentType guesses the HTTP content type appropriate for the given
